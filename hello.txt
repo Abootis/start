@@ -1,1 +1,2 @@
-Salut c'est ma première ligne dans ce fichier !
+﻿Salut c'est ma première ligne dans ce fichier !
+je suis contente de savoir ça
